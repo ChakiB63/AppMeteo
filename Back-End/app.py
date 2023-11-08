@@ -14,7 +14,7 @@ connection= mysql.connector.connect(host='localhost', port='3306',
 cursor=connection.cursor() 
 
 
-API_KEY1 = 'AIzaSyAdpUO6_Zm_f4FfF1JJp4mmVYdzrvEHo-I'
+API_KEY1 = '***API_KEY1***'
 
 def getCoord(address):
     params = {

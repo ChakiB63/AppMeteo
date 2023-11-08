@@ -6,7 +6,7 @@ export const MyAPI_URL = "http://localhost:5000";
 export const geoApiOptions = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': 'ce6badcc74msh80116b811054732p178653jsne1ae1c86becc',
+		'X-RapidAPI-Key': '***X-RapidAPI-Key***',
 		'X-RapidAPI-Host': 'wft-geo-db.p.rapidapi.com'
 	}
 };
